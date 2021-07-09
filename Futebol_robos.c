@@ -18,7 +18,7 @@ int main(){
             fflush(stdin);
         }
     }
-    for(i=0;i<=3;i++)  scanf(" &c", &R_Q[i]);
+    for(i=0;i<=3;i++)  scanf(" &s", &R_Q[i]);
     fflush(stdin);
 
     if(R_Q[0] == 'A'){
